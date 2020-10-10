@@ -20,7 +20,7 @@ We utilized the [AirNOW.gov](https://www.airnow.gov/?city=Bellevue&state=WA&coun
 - Github: https://github.com/jnsmelinda/Vent
 - Heroku: https://vent-airquality-tracker.herokuapp.com/
 
-## Demo
+## Screenshots
 - ![Git](demoimage.PNG)  
 
 ## Technologies
@@ -46,6 +46,6 @@ This repository is protected under the [MIT](https://choosealicense.com/licenses
 ## Contribution
 Please contribute to this project by opening a Pull Request and following the `eslint` rules and the [Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 
-## Screenshots
+## Presentation Feedback
 ![Git](screenshot.PNG)  
 Emoji and Lung Emoticons from Canva.
