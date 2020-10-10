@@ -11,10 +11,10 @@ We utilized the [AirNOW.gov](https://www.airnow.gov/?city=Bellevue&state=WA&coun
 ![Git](readmevideo.gif)  
 
 ## Team
-- [Joo Heredia](https://github.com/djjoo007): Project setup with Sequelize and Express, Heroku deploy
 - [Kelsey James](https://github.com/KJ-Labs): CSS, HTML, Charts, Emotions and Google Maps API
-- [Matt Wibur](https://github.com/wilbur125): Civic API, Handlebars, Responsive design
+- [Matt Wibur](https://github.com/wilbur125): Civic API, Handlebars
 - [Melinda Ivanov](https://github.com/jnsmelinda): Integrating AirNow and Opencage APIs and persistance layer
+- [Joo Heredia](https://github.com/djjoo007): Project setup with Sequelize and Express, Heroku deploy
 
 ## Links
 - Github: https://github.com/jnsmelinda/Vent
