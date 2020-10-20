@@ -17,8 +17,8 @@ We utilized the [AirNOW.gov](https://www.airnow.gov/?city=Bellevue&state=WA&coun
 - [Joo Heredia](https://github.com/djjoo007): Project setup with Sequelize and Express, Heroku deploy
 
 ## Links
-- Github: https://github.com/jnsmelinda/Vent
-- Heroku: https://vent-airquality-tracker.herokuapp.com/
+- Github: https://github.com/KJ-Labs/Vent
+- Heroku: https://vent-tracker.herokuapp.com/
 
 ## Screenshots
 - ![Git](demoimage.PNG)  
